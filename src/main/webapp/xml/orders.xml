@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:orders xmlns="http://service.taxi.myClient.ua/driver/" xmlns:ns2="http://service.taxi.myClient.ua/order/" xmlns:ns3="http://service.taxi.myClient.ua/user/">
+    <ns2:order id="425">
+        <ns2:driver id="8" code="FSDFE">
+            <name>Борис</name>
+            <surname>Олегович</surname>
+            <age>50</age>
+            <phone>0678345726</phone>
+            <mark>0</mark>
+            <car id="8" code="SDFDF">
+                <brand>Ford</brand>
+                <c_name>Focus</c_name>
+                <yearOfProduction>2008</yearOfProduction>
+                <number>AX7897KO</number>
+                <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+                <clas>Середній</clas>
+                <color>Синій</color>
+            </car>
+        </ns2:driver>
+        <ns2:user id="652">
+            <ns3:name>Максим</ns3:name>
+            <ns3:surname>Клішов</ns3:surname>
+            <ns3:addressFrom>станція метро Холодна гора</ns3:addressFrom>
+            <ns3:addressTo>Наукова 33</ns3:addressTo>
+            <ns3:answer>
+                <ns3:email>maksym.klishov@nure.ua</ns3:email>
+            </ns3:answer>
+        </ns2:user>
+        <ns2:price>313</ns2:price>
+        <ns2:mark>9</ns2:mark>
+    </ns2:order>
+    <ns2:order id="214">
+        <ns2:driver id="6" code="FSDFE">
+            <name>Володимир</name>
+            <surname>Володимернюк</surname>
+            <age>38</age>
+            <phone>0668772780</phone>
+            <mark>0</mark>
+            <car id="6" code="SDFDF">
+                <brand>Volkswagen</brand>
+                <c_name>Caddy</c_name>
+                <yearOfProduction>2012</yearOfProduction>
+                <number>BP1664IK</number>
+                <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+                <clas>Вантажний</clas>
+                <color>Білий</color>
+            </car>
+        </ns2:driver>
+        <ns2:user id="652">
+            <ns3:name>Максим</ns3:name>
+            <ns3:surname>Клішов</ns3:surname>
+            <ns3:addressFrom>Південний вокзал</ns3:addressFrom>
+            <ns3:addressTo>площа Свободи</ns3:addressTo>
+            <ns3:answer>
+                <ns3:email>maksym.klishov@nure.ua</ns3:email>
+            </ns3:answer>
+        </ns2:user>
+        <ns2:price>203</ns2:price>
+        <ns2:mark>6</ns2:mark>
+    </ns2:order>
+    <ns2:order id="3">
+        <ns2:driver id="8" code="FSDFE">
+            <name>Борис</name>
+            <surname>Олегович</surname>
+            <age>50</age>
+            <phone>0678345726</phone>
+            <mark>9.0</mark>
+            <car id="8" code="SDFDF">
+                <brand>Ford</brand>
+                <c_name>Focus</c_name>
+                <yearOfProduction>2008</yearOfProduction>
+                <number>AX7897KO</number>
+                <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+                <clas>Середній</clas>
+                <color>Синій</color>
+            </car>
+        </ns2:driver>
+        <ns2:user id="652">
+            <ns3:name>Максим</ns3:name>
+            <ns3:surname>Клішов</ns3:surname>
+            <ns3:addressFrom>вулиця Петра Болбочана</ns3:addressFrom>
+            <ns3:addressTo>станція метро Київська</ns3:addressTo>
+            <ns3:answer>
+                <ns3:email>maksym.klishov@nure.ua</ns3:email>
+            </ns3:answer>
+        </ns2:user>
+        <ns2:price>699</ns2:price>
+        <ns2:mark>8</ns2:mark>
+    </ns2:order>
+</ns2:orders>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user xmlns="http://service.taxi.myClient.ua/user/" xmlns:ns2="http://service.taxi.myClient.ua/driver/" xmlns:ns3="http://service.taxi.myClient.ua/order/" id="652">
+    <name>Максим</name>
+    <surname>Клішов</surname>
+    <answer>
+        <email>maksym.klishov@nure.ua</email>
+    </answer>
+</user>

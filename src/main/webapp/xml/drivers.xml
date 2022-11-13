@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drivers xmlns="http://service.taxi.myClient.ua/driver/" xmlns:ns2="http://service.taxi.myClient.ua/order/" xmlns:ns3="http://service.taxi.myClient.ua/user/">
+    <driver id="1" code="FSDFE">
+        <name>Олег</name>
+        <surname>Пилипко</surname>
+        <age>28</age>
+        <phone>+380990166700</phone>
+        <mark>0</mark>
+        <car id="1" code="SDFDF">
+            <brand>Skoda</brand>
+            <c_name>Octavia</c_name>
+            <yearOfProduction>2010</yearOfProduction>
+            <number>AX3431FF</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Середній</clas>
+            <color>Сірий</color>
+        </car>
+    </driver>
+    <driver id="2" code="FSDFE">
+        <name>Петро</name>
+        <surname>Дмитренко</surname>
+        <age>33</age>
+        <phone>0990166700</phone>
+        <mark>0</mark>
+        <car id="2" code="SDFDF">
+            <brand>Dewoo</brand>
+            <c_name>Lanos</c_name>
+            <yearOfProduction>2005</yearOfProduction>
+            <number>AX2201IP</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Економ</clas>
+            <color>Зелений</color>
+        </car>
+    </driver>
+    <driver id="3" code="FSDFE">
+        <name>Дмитро</name>
+        <surname>Петренко</surname>
+        <age>25</age>
+        <phone>0995646700</phone>
+        <mark>0</mark>
+        <car id="3" code="SDFDF">
+            <brand>Dewoo</brand>
+            <c_name>Lanos</c_name>
+            <yearOfProduction>2003</yearOfProduction>
+            <number>AX4572HB</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Економ</clas>
+            <color>Чорний</color>
+        </car>
+    </driver>
+    <driver id="4" code="FSDFE">
+        <name>Євген</name>
+        <surname>Євгенчук</surname>
+        <age>21</age>
+        <phone>0995879700</phone>
+        <mark>0</mark>
+        <car id="4" code="SDFDF">
+            <brand>Skoda</brand>
+            <c_name>Fabia</c_name>
+            <yearOfProduction>2006</yearOfProduction>
+            <number>AX1532MH</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Середній</clas>
+            <color>Жовтий</color>
+        </car>
+    </driver>
+    <driver id="5" code="FSDFE">
+        <name>Петро</name>
+        <surname>Потрошенко</surname>
+        <age>40</age>
+        <phone>0998779726</phone>
+        <mark>0</mark>
+        <car id="5" code="SDFDF">
+            <brand>Toyota</brand>
+            <c_name>Camry</c_name>
+            <yearOfProduction>2009</yearOfProduction>
+            <number>AX1898KT</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Преміум</clas>
+            <color>Чорний</color>
+        </car>
+    </driver>
+    <driver id="6" code="FSDFE">
+        <name>Володимир</name>
+        <surname>Володимернюк</surname>
+        <age>38</age>
+        <phone>0668772780</phone>
+        <mark>6.0</mark>
+        <car id="6" code="SDFDF">
+            <brand>Volkswagen</brand>
+            <c_name>Caddy</c_name>
+            <yearOfProduction>2012</yearOfProduction>
+            <number>BP1664IK</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Вантажний</clas>
+            <color>Білий</color>
+        </car>
+    </driver>
+    <driver id="7" code="FSDFE">
+        <name>Тарас</name>
+        <surname>Тарасюк</surname>
+        <age>32</age>
+        <phone>0988754726</phone>
+        <mark>0</mark>
+        <car id="7" code="SDFDF">
+            <brand>Ford</brand>
+            <c_name>Mondeo</c_name>
+            <yearOfProduction>2014</yearOfProduction>
+            <number>AX7548PO</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Преміум</clas>
+            <color>Синій</color>
+        </car>
+    </driver>
+    <driver id="8" code="FSDFE">
+        <name>Борис</name>
+        <surname>Олегович</surname>
+        <age>50</age>
+        <phone>0678345726</phone>
+        <mark>8.5</mark>
+        <car id="8" code="SDFDF">
+            <brand>Ford</brand>
+            <c_name>Focus</c_name>
+            <yearOfProduction>2008</yearOfProduction>
+            <number>AX7897KO</number>
+            <vinNumber>DSFSDFSDF3SDFSDFD</vinNumber>
+            <clas>Середній</clas>
+            <color>Синій</color>
+        </car>
+    </driver>
+</drivers>
